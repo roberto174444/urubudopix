@@ -58,6 +58,8 @@ section img {
 .tabela {
   font-size: 25px;
   border: 0.1vh solid #000;
+  background-color: #d8dbba;
+  box-shadow: 3px 5px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 footer {
